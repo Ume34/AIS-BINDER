@@ -1,0 +1,7 @@
+cdsapi
+pandas
+xarray
+netCDF4
+numpy
+openpyxl
+tqdm
